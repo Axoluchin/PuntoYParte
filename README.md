@@ -1,4 +1,4 @@
-# Punto y Aparte
+# Punto y Parte
 > Agrega marcadores en un mapa y consultalos
 Aplicación para Android e IOS usando el componente MapView de React Native usando Expo
 - Agrega marcadores con nombres
